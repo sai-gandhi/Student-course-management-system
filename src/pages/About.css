@@ -1,0 +1,92 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+  h2, h3 {
+    color: #2c3e50;
+  }
+  
+  /* Announcement Banner */
+  .announcement-banner {
+    background-color: #222;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  /* Hero Section */
+  .hero-section {
+    text-align: center;
+    padding: 40px 20px;
+  }
+  
+  .hero-section h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #2c3e50;
+  }
+  
+  .hero-section p {
+    font-size: 18px;
+    color: #555;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  /* About Container */
+  .about-container {
+    width: 80%;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 28px;
+  }
+  
+  .about-container p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  /* Features and Mission Styles */
+  .about-container h3 {
+    font-size: 22px;
+    margin-bottom: 15px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-bottom: 30px;
+  }
+  
+  li {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  /* Footer Styles */
+  .about-footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    color: #c91313;
+  }
+  
+  .about-footer p {
+    margin-top: 20px;
+  }
+  
